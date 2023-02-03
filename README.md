@@ -16,6 +16,6 @@ Using [https://go.cypress.io/](), setup a basic test environment using NodeJS an
 
 ### Bonus Task 3 - Make a PR
 
-Only if you are confident with Git, make a PR with your completed tasks to this Github repository [https://github.com/rentbunk/bunk-qa-test]().
+Only if you are confident with Git, make a PR with your completed tasks to this Github repository.
 
 NOTE: Don't worry if you get stuck, this test is designed just as a basis on which the CTO can start a conversation and see where you might fit into the team.
