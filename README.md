@@ -12,7 +12,7 @@ Using a spreadsheet, (template or tool of your choice), please write some manual
 
 ### Task 2 - Automation with Cypress
 
-Using [https://go.cypress.io/](), setup a basic test environment using NodeJS and write some E2E tests for [https://rentbunk.com/]().
+Using [https://go.cypress.io/](), setup a basic test environment using NodeJS and write some E2E tests for [https://rentfully.co.uk/]().
 
 ### Bonus Task 3 - Make a PR
 
